@@ -1,0 +1,8 @@
+João#043.547.771-42#22#1200#Gerente#joao#123
+Caio#032.323.412-32#19#20000#Gerente#caio#456
+Moisés#032.323.412-32#19#20000#Gerente#moises#789
+João da Silva#123.456.789-00#30#5000#Gerente#joao#senha123
+Maria Oliveira#987.654.321-00#40#7000#Gerente#maria#senha456
+Carlos Souza#111.222.333-44#25#4500#Vendedor#carlos#senha789
+Ana Costa#555.666.777-88#35#8000#Gerente#ana#senha012
+Maria Eduarda#123.654.789-99#23#12000#Vendedor#maria#000

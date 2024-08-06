@@ -1,0 +1,5 @@
+NWJ-4491,30000.0,true,Onix,Prata,Maria,João,5
+XYZ-1234,45000.0,false,Civic,Branco
+ABC-5678,60000.0,false,Corolla,Preto
+LMN-9012,35000.0,false,HB20,Azul
+QRS-3456,50000.0,true,Focus,Vermelho,Carlos,Moisés,8
